@@ -51,7 +51,6 @@
 
 ### Changed
 - **Migrated to `@mcp-abap-adt/connection@^1.10.0`** (from `^1.9.1`), which adds the reference-counted `beginCriticalSection()` / `endCriticalSection()` primitives used above. Non-breaking.
->>>>>>> upstream/main
 
 ## [8.6.1] - 2026-07-05
 
